@@ -8,12 +8,6 @@ Agregué interacción dinámica con el DOM.
 
 Manejo de eventos.
 
-Validación de formularios (si aplica).
-
-Animaciones o efectos (si aplica).
-
-Control de estado de la app (si aplica).
-
 Tecnologías usadas
 
 HTML (dado)
